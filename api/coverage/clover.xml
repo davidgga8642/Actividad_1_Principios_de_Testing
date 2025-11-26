@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1764119597879" clover="3.2.0">
+  <project timestamp="1764119597879" name="All files">
+    <metrics statements="13" coveredstatements="13" conditionals="32" coveredconditionals="26" methods="4" coveredmethods="4" elements="49" coveredelements="43" complexity="0" loc="13" ncloc="13" packages="2" files="2" classes="2"/>
+    <package name="factories">
+      <metrics statements="10" coveredstatements="10" conditionals="32" coveredconditionals="26" methods="4" coveredmethods="4"/>
+      <file name="projectsFactory.ts" path="C:\Users\david\OneDrive\Desktop\Modulo8\codigo\Proyecto-Testing-Y-Seguridad\Proyecto-Testing-Y-Seguridad\api\src\tests\factories\projectsFactory.ts">
+        <metrics statements="10" coveredstatements="10" conditionals="32" coveredconditionals="26" methods="4" coveredmethods="4"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="8" count="8" type="cond" truecount="3" falsecount="1"/>
+        <line num="10" count="8" type="stmt"/>
+        <line num="27" count="8" type="stmt"/>
+        <line num="29" count="8" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="36" count="5" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="40" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="fixtures">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="projects.ts" path="C:\Users\david\OneDrive\Desktop\Modulo8\codigo\Proyecto-Testing-Y-Seguridad\Proyecto-Testing-Y-Seguridad\api\src\tests\fixtures\projects.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
